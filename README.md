@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Kumar
 
-🎓 **Postgraduate Student in Business Analytics and Decision Sciences**  
+🎓 **Graduate in Business Analytics and Decision Sciences**  
 University of Leeds, UK  
 
 💼 Passionate about leveraging **Data Science** and **Machine Learning** for impactful, real-world solutions. My background in mathematics and data science enables me to tackle complex challenges in data mining, predictive modeling, and advanced analytics.
@@ -9,11 +9,12 @@ University of Leeds, UK
 
 ### 👨‍💻 About Me
 
-- **Background**: I hold a dual degree (BS-MS) in Mathematics from IISER Bhopal, India, and am currently pursuing a Master's in Business Analytics and Decision Sciences at the University of Leeds.
+- **Background**: I hold a dual degree (BS-MS) in Mathematics from IISER Bhopal, India, and recently completed my Master's in Business Analytics and Decision Sciences at the University of Leeds.
 - **Skills**: Proficient in Python, R, SQL, Power BI, and machine learning frameworks. Experienced with data visualization tools like Tableau and Power BI.
 - **Interests**: Data Science, Machine Learning, Business Intelligence, and Explainable AI.
 
 ---
+
 
 ### 🛠 Technical Skills
 
