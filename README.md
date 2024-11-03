@@ -23,39 +23,6 @@ University of Leeds, UK
 
 ---
 
-### 📊 Projects
-
-- **[ICO Success Prediction Model](https://github.com/aman-arya/ico-success-prediction)**  
-   Developed models like logistic regression, SVM, and ANN to predict the success of ICOs with notable results:
-   - Improved logistic regression accuracy to 71.10% for fundraising predictions.
-   - Achieved 74.17% AUC using ANN for ICO classification.
-
-- **[Universal Exports Business Operations Analysis](https://github.com/aman-arya/universal-exports-analysis)**  
-   Built advanced Power BI dashboards to optimize business operations, boosting air shipments by 9.28% and achieving UK sales of £249M.
-
-- **[Forecasting U.S. Personal Consumption Expenditures](https://github.com/aman-arya/pce-forecasting)**  
-   Developed ARIMA and Holt models to forecast PCE with impressive metrics (MAPE: 5.30, MASE: 4.15).
-
-- **[Hotel Review Topic Modelling](https://github.com/aman-arya/hotel-review-topic-modelling)**  
-   Used NLP techniques to improve service quality by analyzing customer reviews, leading to a 20% increase in positive feedback.
-
----
-
-### 🏆 Achievements
-
-- **Ranked 6th** in the Machine Learning in Agriculture Hackathon (out of 1500+ participants)
-- **Top 1%** in JEE Mains & Advanced among 1.5 million candidates
-
----
-
-### 📚 Certifications
-
-- PL-300: Power BI Associate (Microsoft)
-- Business Intelligence Analyst Course (Udemy)
-- SQL for Business Analysis (Udemy)
-- Machine Learning for Cryptology (ML4Crypto, ISI Kolkata)
-
----
 
 ### 📫 Contact Me
 
